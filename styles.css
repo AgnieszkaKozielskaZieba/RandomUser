@@ -13,16 +13,16 @@ body {
 }
 .user-profile {
   margin: auto;
-	width: 27em; 
+  width: 27em;
   height: 11em;
   background: #fff;
-  border-radius: .3em;
+  border-radius: 0.3em;
 }
 
-.user-profile  #fullname {
+.user-profile #fullname {
   margin: auto;
-  margin-top: -4.40em;
-  margin-left: 5.80em;
+  margin-top: -4.4em;
+  margin-left: 5.8em;
   color: #16a085;
   font-size: 1.53em;
   font-family: "Coda", sans-serif;
@@ -34,7 +34,7 @@ body {
   display: inline-block;
   margin-left: 10.43em;
   color: #3498db;
-  font-size: .87em;
+  font-size: 0.87em;
   font-family: "varela round", sans-serif;
 }
 
@@ -44,26 +44,25 @@ body {
   margin-right: 3em;
   width: 18em;
   color: #7f8c8d;
-  font-size: .87em;
+  font-size: 0.87em;
   font-family: "varela round", sans-serif;
 }
 
 .user-profile > img#avatar {
-	padding: .7em;
-  margin-left: .3em;
-  margin-top: .3em;
+  padding: 0.7em;
+  margin-left: 0.3em;
+  margin-top: 0.3em;
   height: 6.23em;
   width: 6.23em;
   border-radius: 18em;
 }
 
-
 .footer {
-	margin: 2em auto;
-	height: 3.70em;
+  margin: 2em auto;
+  height: 3.7em;
   background: #16a085;
   text-align: center;
-  border-radius: 0 0 .3em .3em;
+  border-radius: 0 0 0.3em 0.3em;
   display: flex;
   justify-content: center;
   align-items: center;
